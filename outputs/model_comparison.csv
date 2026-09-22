@@ -1,0 +1,4 @@
+model,accuracy
+baseline_majority,0.3846720707442889
+random_forest,0.42299189388356667
+xgboost,0.4524686809137804

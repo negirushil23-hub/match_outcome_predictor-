@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Data & model artifacts (regenerable via fetch_data.py / train_model.py)
+data/raw_matches.csv
+data/team_match_features.csv
+models/*.joblib
+
+# Editor
+.vscode/
+.idea/
